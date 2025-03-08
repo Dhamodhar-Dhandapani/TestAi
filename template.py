@@ -7,6 +7,7 @@ logging.basicConfig(level=logging.INFO,format='%(asctime)s - %(name)s - %(leveln
 fileList = [
     'requirements.txt',
     'src/__init__.py',
+    'src/prompt.py',
     'Mtest/model.ipynb',
     'Mtest/imageDetection.ipynb',
     'src/helper.py',
